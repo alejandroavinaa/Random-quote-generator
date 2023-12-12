@@ -23,3 +23,5 @@ let randomQuoteGenerator = () => {
 };
 
 console.log(randomQuoteGenerator());
+
+console.log("Restart for new quote")
